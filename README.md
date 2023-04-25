@@ -13,7 +13,7 @@
 
 ## About Me :wave:
 
-Hello there! :smile: My name is Hernan, and I'm a technology enthusiast and software developer with a passion for learning and expanding my skillset. From a young age, I've been fascinated by how technology can improve our lives and solve complex problems, and that fascination has only grown stronger as I've delved deeper into the world of software development.
+Hi there! :smile: My name is Hernan, and I'm a technology enthusiast and software developer with a passion for learning and expanding my skillset. From a young age, I've been fascinated by how technology can improve our lives and solve complex problems, and that fascination has only grown stronger as I've delved deeper into the world of software development.
 
 As a developer, I'm always looking for new challenges and opportunities to learn. Whether it's exploring a new programming language or framework, experimenting with cutting-edge technologies, or finding innovative solutions to difficult problems, I'm never satisfied with standing still. I believe that the key to success in software development is a willingness to constantly push oneself out of their comfort zone and embrace new challenges.
 
