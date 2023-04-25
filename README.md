@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [Telecom Argentina](https://telecom.com.ar);
 - 🌱 I’m currently learning Soft Skills; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 👯 I’m looking to collaborate on Automation Project 🤝;
 - 🤔 I’m looking for help with UX design 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: lencinas.hernan@gmail.com;
