@@ -57,5 +57,7 @@ If you're looking for a passionate and driven software developer to join your te
 #### Editors:
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <hr/>
