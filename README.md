@@ -23,8 +23,6 @@ If you're looking for a passionate and driven software developer to join your te
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
-## Technologies I'm Learning :books:
-
 #### Software:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
@@ -63,6 +61,3 @@ If you're looking for a passionate and driven software developer to join your te
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr/>
-
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
-
