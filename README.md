@@ -3,7 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-lencinas-222816192/)](https://www.linkedin.com/in/hernan-lencinas-222816192/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:lencinas.hernan@gmail.com)
 
+<!--
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
+-->
 
 ## About Me :wave:
 
