@@ -12,6 +12,7 @@ As a developer, I'm always looking for new challenges and opportunities to learn
 In addition to my technical skills, I also place a strong emphasis on collaboration and teamwork. I believe that great software is built by teams of talented individuals who work together towards a common goal, and I strive to be a reliable, communicative, and supportive team member in every project I work on.
 
 If you're looking for a passionate and driven software developer to join your team, I'd love to chat!
+<br>
 
 ### Latest Articles 👨‍💻
 
