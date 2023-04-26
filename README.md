@@ -147,6 +147,5 @@ If you're looking for a passionate and driven software developer to join your te
 #### Music:
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
-![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 
 <hr/>
