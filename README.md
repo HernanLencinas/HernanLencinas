@@ -148,4 +148,8 @@ If you're looking for a passionate and driven software developer to join your te
 
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 
+
+![RHCS](https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)
+
+
 <hr/>
