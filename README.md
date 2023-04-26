@@ -3,10 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hernan-lencinas-222816192/)](https://www.linkedin.com/in/hernan-lencinas-222816192/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:lencinas.hernan@gmail.com)
 
-<!--
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
--->
-
 ## About Me :wave:
 
 Hi there! :smile: My name is Hernan, and I'm a technology enthusiast and software developer with a passion for learning and expanding my skillset. From a young age, I've been fascinated by how technology can improve our lives and solve complex problems, and that fascination has only grown stronger as I've delved deeper into the world of software development.
@@ -17,7 +13,10 @@ In addition to my technical skills, I also place a strong emphasis on collaborat
 
 If you're looking for a passionate and driven software developer to join your team, I'd love to chat!
 
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
+### 📝 Mis últimos artículos
+
+- [La importancia de la automatización](https://github.com/HernanLencinas/HernanLencinas/blob/main/la_importancia_de_la_automatizacion.md)
+
 
 #### Food:
 
@@ -155,5 +154,8 @@ If you're looking for a passionate and driven software developer to join your te
 ![RHCS]()
 ![RHCS]()
 ![RHCS]() -->
+
+<!--More badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
+
 
 <hr/>
