@@ -46,6 +46,8 @@ If you're looking for a passionate and driven software developer to join your te
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&hide_progress=true)](https://github.com/hernanlencinas/github-readme-stats)
+
 #### Prototyping:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -98,9 +100,7 @@ If you're looking for a passionate and driven software developer to join your te
 #### Other:
 
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&hide_progress=true)](https://github.com/hernanlencinas/github-readme-stats)
+![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
