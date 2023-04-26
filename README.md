@@ -48,6 +48,8 @@ If you're looking for a passionate and driven software developer to join your te
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&hide_progress=true)](https://github.com/hernanlencinas/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Prototyping:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
