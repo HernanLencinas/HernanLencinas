@@ -48,7 +48,7 @@ If you're looking for a passionate and driven software developer to join your te
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&hide_progress=true)](https://github.com/hernanlencinas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&langs_count=8)](https://github.com/hernanlencinas/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&langs_count=8)](https://github.com/hernanlencinas/github-readme-stats) -->
 
 #### Prototyping:
 
