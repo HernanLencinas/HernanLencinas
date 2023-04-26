@@ -13,10 +13,11 @@ In addition to my technical skills, I also place a strong emphasis on collaborat
 
 If you're looking for a passionate and driven software developer to join your team, I'd love to chat!
 
-### 📝 Mis últimos artículos
+## My latest articles 👨‍💻
 
 - [La importancia de la automatización](https://github.com/HernanLencinas/HernanLencinas/blob/main/la_importancia_de_la_automatizacion.md)
 
+<br>
 
 #### Food:
 
@@ -149,13 +150,6 @@ If you're looking for a passionate and driven software developer to join your te
 
 <!-- ![RHCS](https://images.credly.com/size/220x220/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)
 ![RHCS](https://images.credly.com/size/220x220/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png)
-![RHCS]()
-![RHCS]()
-![RHCS]()
-![RHCS]()
 ![RHCS]() -->
 
 <!--More badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
-
-
-<hr/>
