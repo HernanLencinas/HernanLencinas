@@ -106,6 +106,7 @@ If you're looking for a passionate and driven software developer to join your te
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Solaris](https://img.shields.io/badge/Solaris-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### Editors:
 
