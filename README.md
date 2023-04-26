@@ -19,10 +19,10 @@ If you're looking for a passionate and driven software developer to join your te
 
 <br>
 
-#### Food:
+#### Food: 
 
 ![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-#### Cloud:
+#### Cloud: 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -30,7 +30,7 @@ If you're looking for a passionate and driven software developer to join your te
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-#### Dev:
+#### Dev: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -62,12 +62,12 @@ If you're looking for a passionate and driven software developer to join your te
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&langs_count=8)](https://github.com/hernanlencinas/github-readme-stats) -->
 
-#### Prototyping:
+#### Prototyping: 
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-#### Backend:
+#### Backend: 
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
@@ -80,7 +80,7 @@ If you're looking for a passionate and driven software developer to join your te
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-#### Databases:
+#### Databases: 
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
