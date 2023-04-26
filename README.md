@@ -17,7 +17,6 @@ If you're looking for a passionate and driven software developer to join your te
 ### Latest Articles 👨‍💻
 
 - [La importancia de la automatización](https://github.com/HernanLencinas/HernanLencinas/blob/main/la_importancia_de_la_automatizacion.md)
-<br>
 
 ### Skills 🏅
 
