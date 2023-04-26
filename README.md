@@ -19,6 +19,9 @@ If you're looking for a passionate and driven software developer to join your te
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
+#### Food:
+
+![Coffee](https://img.shields.io/badge/Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 #### Cloud:
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
