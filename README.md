@@ -98,6 +98,10 @@ If you're looking for a passionate and driven software developer to join your te
 #### Other:
 
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernanLencinas&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 
 <hr/>
