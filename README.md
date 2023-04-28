@@ -14,12 +14,12 @@ In addition to my technical skills, I also place a strong emphasis on collaborat
 If you're looking for a passionate and driven software developer to join your team, I'd love to chat!
 <br><br>
 
-### ✍️ Latest Articles
+### Latest Articles ✍️
 
 - [La importancia de la automatización](https://github.com/HernanLencinas/HernanLencinas/blob/main/la_importancia_de_la_automatizacion.md)
 
 <br>
-### 🏅 Skills
+### Skills 🏅 
 <br/>
 <table>
 <!-- <caption>Hernany</caption>
