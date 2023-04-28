@@ -67,7 +67,7 @@ If you're looking for a passionate and driven software developer to join your te
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=hernanlencinas&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&layout=compact&langs_count=10&hide=html,css"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&layout=full&langs_count=10"/>
 </td></tr>
 <tr><th scope='row' align="left">Prototyping</th><td>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
