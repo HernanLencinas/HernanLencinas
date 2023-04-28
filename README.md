@@ -65,7 +65,7 @@ If you're looking for a passionate and driven software developer to join your te
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=hernanlencinas&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&layout=full&langs_count=10"/>
 </td></tr>
