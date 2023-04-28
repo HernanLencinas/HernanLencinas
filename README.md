@@ -20,7 +20,7 @@ If you're looking for a passionate and driven software developer to join your te
 
 <br>
 ### 🏅 Skills
-
+<br/>
 <table>
 <!-- <caption>Hernany</caption>
 <thead>
