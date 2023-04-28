@@ -137,7 +137,7 @@ If you're looking for a passionate and driven software developer to join your te
 <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
 </td></tr>
 <tr><th scope='row' align="left">A.I.</th><td>
-<img src=https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/>
+<img src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/>
 <img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white"/>
 </td></tr>
 <tr><th scope='row' align="left">Music</th><td>
