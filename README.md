@@ -14,11 +14,12 @@ In addition to my technical skills, I also place a strong emphasis on collaborat
 If you're looking for a passionate and driven software developer to join your team, I'd love to chat!
 <br><br>
 
-### Latest Articles ✍️
+### ✍️ Latest Articles
 
 - [La importancia de la automatización](https://github.com/HernanLencinas/HernanLencinas/blob/main/la_importancia_de_la_automatizacion.md)
 
-### Skills 🏅
+<br>
+### 🏅 Skills
 
 <table>
 <!-- <caption>Hernany</caption>
@@ -64,7 +65,9 @@ If you're looking for a passionate and driven software developer to join your te
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&hide_progress=true)](https://github.com/hernanlencinas/github-readme-stats)
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=hernanlencinas&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanlencinas&layout=compact&langs_count=10&hide=html,css"/>
 </td></tr>
 <tr><th scope='row' align="left">Prototyping</th><td>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
